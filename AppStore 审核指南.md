@@ -137,7 +137,7 @@ iPhone应用程序必须不经过修改就能以iPhone分辨率和2倍的iPhone 
 
 2.23 Apps must follow the iOS Data Storage Guidelines or they will be rejected。
 
-应用程序必须遵守iOS书籍存储指南（iOS Data Storage Guidelines），否则会被拒绝。
+应用程序必须遵守iOS数据存储指南（iOS Data Storage Guidelines），否则会被拒绝。
 
 2.24 Apps that are offered in Newsstand must comply with schedules 1, 2 and 3 of the Program License Agreement or they will be rejected
 
